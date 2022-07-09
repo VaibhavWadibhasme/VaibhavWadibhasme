@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **java.**
 
-- 👯 I’m looking to collaborate on **open source project.**
-
 - 🤝 I’m looking for help with **learning new thing.**
 
 - 📫 How to reach me **vaibhavwadibhasme1@gmail.com**
