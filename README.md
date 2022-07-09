@@ -13,9 +13,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vwadibhasme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vwadibhasme" height="30" width="40" /></a>
-<a href="https://https://www.linkedin.com/in/vaibhav-wadibhasme-b61640177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav wadibhasme" height="30" width="40" /></a>
+
 <a href="https://instagram.com/vaibhav_wadibhasme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav_wadibhasme" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@vaibhavwadibhas1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@vaibhavwadibhas1" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/vaibhavwadi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vaibhavwadi98" height="30" width="40" /></a>
 </p>
 
