@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **learning new technology.**
 
-- 📫 How to reach me **vaibhavwadibhasme1@gmail.com**
+- 📫 You can reach me **vaibhavwadibhasme1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
