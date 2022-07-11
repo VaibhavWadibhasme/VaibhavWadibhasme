@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/XKxZxE6nf2Xq5ySGhn/giphy.gif?cid=790b7611f87fa7c2b5fd1059921ec65adb8db1ee698deddb&rid=giphy.gif&ct=g)]
+[![MasterHead align="center"](https://media3.giphy.com/media/XKxZxE6nf2Xq5ySGhn/giphy.gif?cid=790b7611f87fa7c2b5fd1059921ec65adb8db1ee698deddb&rid=giphy.gif&ct=g)]
 <h1 align="center">Hi 👋, I'm Vaibhav Wadibhasme</h1>
 <h3 align="center">A beginner developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
