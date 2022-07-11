@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **java.**
 
-- 🤝 I’m looking for help with **learning new thing.**
+- 🤝 I’m looking for help with **learning new technology.**
 
 - 📫 How to reach me **vaibhavwadibhasme1@gmail.com**
 
