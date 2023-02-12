@@ -2,7 +2,7 @@
 <h3 align="center">A beginner developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-- 📝 I’m currently learning **java.**
+- 📝 I’m currently learning **web development.**
 
 - 🤝 I’m looking for help with **learning new technology.**
 
