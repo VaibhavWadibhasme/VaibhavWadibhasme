@@ -14,6 +14,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" alt="html" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" alt="html" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" alt="js" width="40" height="40"/></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="jquery" width="40" height="40"/></a>
+</p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavwadibhasme&" alt="vaibhavwadibhasme" /></p>
